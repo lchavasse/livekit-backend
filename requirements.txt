@@ -1,0 +1,12 @@
+livekit-agents>=0.11.2
+livekit-plugins-openai>=0.10.6
+livekit-plugins-deepgram>=0.6.9
+livekit-plugins-silero>=0.7.3
+livekit-plugins-cartesia>=0.1.0
+livekit-plugins-elevenlabs>=0.1.0
+python-dotenv~=1.0
+openai>=1.30.0
+supabase>=2.0.0
+huggingface-hub>=0.20.0
+elevenlabs>=0.2.0
+cartesia>=0.1.0
